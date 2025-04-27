@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://github.com/harsharan-r"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harsharan+Rakhra;Software+Developer+and+Tech+Enthusiast" alt="Typing Animation" /></a>
+  <a href="https://github.com/harsharan-r">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harsharan+Rakhra;Mechatronics+Engineer+and+Tech+Enthusiast" alt="Typing Animation" />
+  </a>
 </p>
 
 ---
@@ -18,8 +20,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsharan-r&show_icons=true&theme=minimal" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsharan-r&theme=minimal" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsharan-r&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsharan-r&theme=tokyonight" height="150" />
 </p>
 
 ---
