@@ -7,11 +7,11 @@
 ---
 
 ### 🔭 Current Focus
-- Working on: Machine learning projects and intelligent system design
+- Working on: Machine learning projects and Autonomous Vehicles
 - Exploring: Computer vision, autonomous systems, and scalable backend solutions
 
 ### 🌱 Skills
-- Python | C++ | JavaScript
+- Python | C++ | Ruby
 - Machine Learning | Computer Vision | Web Development
 - Git | Docker | Linux
 
@@ -29,7 +29,7 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,ruby,ruby-on-rails,git,docker,linux" />
 </p>
 
 ---
