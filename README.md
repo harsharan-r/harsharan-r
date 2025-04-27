@@ -7,8 +7,8 @@
 ---
 
 ### 🔭 Current Focus
-- Working on: Machine learning projects and Autonomous Vehicles
-- Exploring: Computer vision, autonomous systems, and scalable backend solutions
+- Working on: Machine learning projects and autonomous Vehicles
+- Exploring: Computer vision, autonomous systems, and robot kinematics
 
 ### 🌱 Skills
 - Python | C++ | Ruby
