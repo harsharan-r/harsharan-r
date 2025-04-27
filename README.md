@@ -29,7 +29,8 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,ruby,ruby-on-rails,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,HTML,css,flask,ruby,rails,ros,kotlin,gradle"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,vim,androidstudio,arduino,blender" />
 </p>
 
 ---
