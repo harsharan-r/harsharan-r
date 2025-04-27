@@ -39,13 +39,6 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/harsharanr/)
-- [GitHub](https://github.com/harsharan-r)
-
----
-
-### ⚡ Fun Fact
-When I'm not coding, you’ll probably find me hiking, playing guitar, or diving into tech blogs.
-
 ---
 
 <p align="center">
