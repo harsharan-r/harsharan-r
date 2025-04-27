@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Harsharan </h1>
 <h3 align="center">Passionate about building intelligent solutions and lifelong learning</h3>
 
 ---
@@ -17,8 +17,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsharan-r&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsharan-r&theme=tokyonight" height="150" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ When I'm not coding, you can find me [your hobbies, e.g., hiking, gaming, playin
 ### ✨ Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=harsharan-r&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -59,3 +59,4 @@ You can optionally add a typing effect in your README using this:
 <p align="center">
   <a href="https://github.com/your-username"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
+```
