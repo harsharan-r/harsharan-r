@@ -7,8 +7,8 @@
 ---
 
 ### 🔭 Current Focus
-- Working on: Machine learning projects and autonomous Vehicles
-- Exploring: Computer vision, autonomous systems, and robot kinematics
+- Working on: Machine learning projects and Autonomous Vehicles
+- Exploring: Computer vision, Autonomous Systems, and Robot Kinematics
 
 ### 🌱 Skills
 - Python | C++ | Ruby
@@ -39,6 +39,7 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/harsharanr/)
+- [Devpost](https://devpost.com/harsharanrakhra)
 ---
 
 <p align="center">
