@@ -5,6 +5,7 @@
 </p>
 
 ---
+I’m currently pursuing Mechatronics Engineering at the University of Waterloo, with a strong passion for AI, robotics, and autonomous vehicle technologies. Thanks for visiting my profile!
 
 ### 🔭 Current Focus
 - Working on: Machine learning projects and Autonomous Vehicles
