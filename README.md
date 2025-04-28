@@ -5,15 +5,16 @@
 </p>
 
 ---
-I’m currently pursuing Mechatronics Engineering at the University of Waterloo, with a strong passion for AI, robotics, and autonomous vehicle technologies. Thanks for visiting my profile!
+
+I’m currently pursuing Mechatronics Engineering at the University of Waterloo, with a strong passion for AI, robotics, and autonomous vehicle technologies. Check out my repositories to see some of the work I've done.
 
 ### 🔭 Current Focus
-- Working on: Machine learning projects and Autonomous Vehicles
+- Working on: Machine learning projects and Autonomous Vehicles, and control systems
 - Exploring: Computer vision, Autonomous Systems, and Robot Kinematics
 
 ### 🌱 Skills
 - Python | C++ | Ruby
-- Machine Learning | Computer Vision | Web Development
+- Machine Learning | Computer Vision | Robot Control/Navigation Systems
 - Git | Docker | Linux
 
 ---
